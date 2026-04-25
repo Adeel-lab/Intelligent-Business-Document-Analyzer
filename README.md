@@ -10,6 +10,8 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-VectorStore-orange)
 ![Groq](https://img.shields.io/badge/Groq-LLaMA3.3--70B-blueviolet)
 
+### 🚀 [Try the Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/Adeelkamal/Intelligent-Business-Document-Analyzer)
+
 ---
 
 ## 🚀 What It Does
