@@ -114,7 +114,7 @@ docker compose up --build
 ## 👤 Author
 
 **Adeel Kamal**
-- 🔗 [LinkedIn](www.linkedin.com/in/adeel-kamal-8231b4295)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adeel-kamal-8231b4295)
 - 🐙 [GitHub](https://github.com/Adeel-lab)
 
 ---
