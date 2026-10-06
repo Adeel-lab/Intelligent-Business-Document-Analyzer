@@ -23,7 +23,7 @@ def get_answer(question: str, doc_id: str):
     retriever = vectorstore.as_retriever(search_kwargs={"k": 15})
 
     llm = ChatGroq(
-        model="llama-3.3-70b-versatile",
+        model="llama-3.1-8b-instant",
         temperature=0.2,
         api_key=os.getenv("GROQ_API_KEY"),
         max_tokens=1024
